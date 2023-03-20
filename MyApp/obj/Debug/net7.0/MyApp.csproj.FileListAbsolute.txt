@@ -1,0 +1,15 @@
+C:\Users\cheta\MyApp\bin\Debug\net7.0\MyApp.exe
+C:\Users\cheta\MyApp\bin\Debug\net7.0\MyApp.deps.json
+C:\Users\cheta\MyApp\bin\Debug\net7.0\MyApp.runtimeconfig.json
+C:\Users\cheta\MyApp\bin\Debug\net7.0\MyApp.dll
+C:\Users\cheta\MyApp\bin\Debug\net7.0\MyApp.pdb
+C:\Users\cheta\MyApp\obj\Debug\net7.0\MyApp.csproj.AssemblyReference.cache
+C:\Users\cheta\MyApp\obj\Debug\net7.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cheta\MyApp\obj\Debug\net7.0\MyApp.AssemblyInfoInputs.cache
+C:\Users\cheta\MyApp\obj\Debug\net7.0\MyApp.AssemblyInfo.cs
+C:\Users\cheta\MyApp\obj\Debug\net7.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\cheta\MyApp\obj\Debug\net7.0\MyApp.dll
+C:\Users\cheta\MyApp\obj\Debug\net7.0\refint\MyApp.dll
+C:\Users\cheta\MyApp\obj\Debug\net7.0\MyApp.pdb
+C:\Users\cheta\MyApp\obj\Debug\net7.0\MyApp.genruntimeconfig.cache
+C:\Users\cheta\MyApp\obj\Debug\net7.0\ref\MyApp.dll
